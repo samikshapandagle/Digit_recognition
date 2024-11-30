@@ -1,2 +1,2 @@
-# Digit_recognition
+# Digit recognition
 task 2: Digit recognition
